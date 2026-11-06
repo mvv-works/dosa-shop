@@ -17,4 +17,12 @@
 # masala dosa
 * dosa batter
 * oil
-* aloo masala
+* aloo masala 
+* butter 
+* tomato paste
+* panner
+* ghee
+* carrot  
+
+# butter dosa
+* dosa batter
