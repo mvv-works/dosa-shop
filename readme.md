@@ -8,3 +8,8 @@
 * dosa batter
 * oil addeds
 * erra karam
+
+# egg dosa
+* dosa batter
+* oil
+* 2 eggs
