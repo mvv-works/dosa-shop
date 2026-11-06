@@ -12,4 +12,5 @@
 # egg dosa
 * dosa batter
 * oil
-* 1 egg
+* 1/2 eggs
+
