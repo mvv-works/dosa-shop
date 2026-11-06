@@ -29,4 +29,5 @@
 * butter
 
 # neyyi-karam dosa
-* dosa batter
+* dosa batter   
+* ghee
