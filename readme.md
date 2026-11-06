@@ -27,5 +27,3 @@
 # butter dosa
 * dosa batter
 * butter
-* tomato paste
-* ghee
