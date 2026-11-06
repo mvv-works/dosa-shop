@@ -28,3 +28,4 @@
 * dosa batter
 * butter
 * tomato paste
+* ghee
