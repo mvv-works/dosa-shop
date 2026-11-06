@@ -27,3 +27,6 @@
 # butter dosa
 * dosa batter
 * butter
+
+# neyyi-karam dosa
+* dosa batter
